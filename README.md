@@ -1,21 +1,64 @@
-# yarin-projects
-Business Analyst project (Power BI)
-This project deals with digital marketing and was carried out on the Power BI platform.
-The database on which the project was carried out presented data for one month of the year.
+Power BI Marketing Dashboard Project
 
-This project is divided into 3 parts:
-1. Calculation of relevant indices.
-2. Building a dashboard.
-3. Statistical calculations.
+Overview
+This project presents a Power BI dashboard designed to analyze and optimize marketing performance through key metrics and visual insights. The dashboard provides actionable insights based on data collected for November, focusing on key marketing KPIs such as CPC, CPA, CR, CV, and ROAS.
 
-For the purpose of calculating the indicators, statistical calculations and building a dashboard,
-I built a number of measures that represent statistical operations
-and a number of columns that help me present the dashboard in a smarter way.
+Features
+📊 KPI Cards: Individual cards display values for each marketing metric:
 
-Skills:
-Business Analyst
-Data Analyst
-Power BI
-Tableau
-Qlik sense
-Statisticians
+CPC (Cost Per Click)
+
+CPA (Cost Per Acquisition)
+
+CV (Conversions)
+
+CR (Conversion Rate)
+
+ROAS (Return on Ad Spend)
+
+📈 Time-Based Graphs: A line chart shows CPC trends over time.
+
+📅 Monthly Summary Dashboard: Focuses on November data, featuring:
+
+Defined targets for each KPI
+
+
+Profit calculations
+
+Correlation measures between:
+
+Revenue & Conversions
+
+Revenue & Clicks
+
+🧠 Insights & Conclusions:
+
+CPC underperforms vs. target; affected by low-cost "inventory publishers" category
+
+CPA payments generate only 3.6% of total profit but comprise 17.7% of expenses
+
+CPA-type publishers are highly profitable and should be promoted
+
+Strong correlation between profit and conversions, not with clicks
+
+Security category has many clicks but low conversion — recommend CPC model
+
+Shopping and Home & Garden categories have more conversions than clicks — recommend CPA model
+
+
+🔍 Interactive Filters:
+
+Date range selector
+
+Filter by publisher inventory type
+
+
+Files
+model.pbix – The main Power BI report file.
+
+Explanations and results.docx – Documentation of calculations, development process, and conclusions.
+
+
+Author
+Yarin Zairy
+Linkedin - www.linkedin.com/in/yarin-zairy
