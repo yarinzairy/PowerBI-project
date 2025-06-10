@@ -4,7 +4,7 @@ Overview
 This project presents a Power BI dashboard designed to analyze and optimize marketing performance through key metrics and visual insights. The dashboard provides actionable insights based on data collected for November, focusing on key marketing KPIs such as CPC, CPA, CR, CV, and ROAS.
 
 Features
-📊 KPI Cards: Individual cards display values for each marketing metric:
+KPI Cards: Individual cards display values for each marketing metric:
 
 CPC (Cost Per Click)
 
@@ -16,9 +16,9 @@ CR (Conversion Rate)
 
 ROAS (Return on Ad Spend)
 
-📈 Time-Based Graphs: A line chart shows CPC trends over time.
+Time-Based Graphs: A line chart shows CPC trends over time.
 
-📅 Monthly Summary Dashboard: Focuses on November data, featuring:
+Monthly Summary Dashboard: Focuses on November data, featuring:
 
 Defined targets for each KPI
 
@@ -31,7 +31,7 @@ Revenue & Conversions
 
 Revenue & Clicks
 
-🧠 Insights & Conclusions:
+Insights & Conclusions:
 
 CPC underperforms vs. target; affected by low-cost "inventory publishers" category
 
@@ -46,7 +46,7 @@ Security category has many clicks but low conversion — recommend CPC model
 Shopping and Home & Garden categories have more conversions than clicks — recommend CPA model
 
 
-🔍 Interactive Filters:
+Interactive Filters:
 
 Date range selector
 
